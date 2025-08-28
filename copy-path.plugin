@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python3
+Module=copy_path
+IAge=3
+Name=Copy Path
+Description=adds 'Copy Path' menu item to copy the full file path
+Authors=didli <mushimk@yahoo.co.jp>\nChatGPT <chatgpt@openai.com>
+Copyright=2025
