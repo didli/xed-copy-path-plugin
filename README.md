@@ -1,6 +1,6 @@
 ### Xed Copy Path Plugin
 
-Adds a **Copy Path** menu item to Xed editor’s context menu, allowing users to copy the full path of the current document to the clipboard.
+Adds a **Copy Path** menu item to [Xed](https://github.com/linuxmint/xed) editor’s context menu, allowing users to copy the full path of the current document to the clipboard.
 
 #### Features
 
