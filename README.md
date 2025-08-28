@@ -30,5 +30,5 @@ sudo cp -r copy-path /usr/lib64/xed/plugins/
 
 Notes
 
-- This requires root privileges because the plugins are installed system-wide.
+- This requires root privileges because the plugin is installed system-wide.
 - The plugin is written in Python 3 and uses GTK 3 / libpeas.
