@@ -1,15 +1,15 @@
-# Xed Copy Path Plugin
+### Xed Copy Path Plugin
 
 Adds a **Copy Path** menu item to Xed editor’s context menu, allowing users to copy the full path of the current document to the clipboard.
 
-## Features
+#### Features
 
 - Context menu: Right-click anywhere in the document → Copy Path
 - (Future) Keyboard shortcut and notification support may be added in upcoming releases
 
-## Installation
+### Installation
 
-### Manual (Fedora / system-wide)
+#### Manual (Fedora / system-wide)
 
 1. Copy the plugin folder to Xed's system-wide plugins directory:
 
