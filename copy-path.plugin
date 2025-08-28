@@ -4,5 +4,5 @@ Module=copy_path
 IAge=3
 Name=Copy Path
 Description=adds 'Copy Path' menu item to copy the full file path
-Authors=didli <mushimk@yahoo.co.jp>\nChatGPT <chatgpt@openai.com>
-Copyright=2025
+Authors=didli <mushimk [at] yahoo [dot] co [dot] jp>, ChatGPT
+Copyright=GPL-2.0 didli
