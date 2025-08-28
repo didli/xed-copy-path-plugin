@@ -10,8 +10,13 @@ Adds a **Copy Path** menu item to [Xed](https://github.com/linuxmint/xed) editor
 ### Installation
 
 #### Manual (Fedora / system-wide)
-
-1. Copy the plugin folder to Xed's system-wide plugins directory:
+1. Create a copy-path folder anywhere you want:
+```bash
+mkdir -p ~/copy-path
+```
+    copy the files .plugin and .py there
+  
+2. Copy the folder copy-path to Xed's system-wide plugins directory:
 
 ```bash
 sudo cp -r copy-path /usr/lib64/xed/plugins/
